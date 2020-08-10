@@ -1,0 +1,27 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql2": "^2.1.0",
+    "node": "^14.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osadenaike/Employee-Tracker.git"
+  },
+  "author": "femi Adenaike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osadenaike/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/osadenaike/Employee-Tracker#readme"
+}
