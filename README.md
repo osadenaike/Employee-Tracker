@@ -37,7 +37,7 @@ Tests coming soon
 
 ## Questions
 Click me to Visit my GitHub  
-[Alfonso Barreto](https://github.com/pochobs)
+[Femi Adenaike](https://github.com/osadenaike)
   
 If you have any questions or would like to contact me, please email me at  
-[pochobs@gmail.com](mailto:pochobs@gmail.com)
+[osadenaike@gmail.com](mailto:osadenaike@gmail.com)
