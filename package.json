@@ -4,24 +4,29 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "ascii-art": "^2.5.0",
     "asciiart-logo": "^0.2.6",
     "console.table": "^0.10.0",
     "inquirer": "^7.3.3",
-    "mysql2": "^2.1.0",
-    "node": "^14.7.0"
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/osadenaike/Employee-Tracker.git"
+    "url": "git+https://github.com/pochobs/Employee-Tracker.git"
   },
-  "author": "femi Adenaike",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/osadenaike/Employee-Tracker/issues"
+    "url": "https://github.com/pochobs/Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/osadenaike/Employee-Tracker#readme"
+  "homepage": "https://github.com/pochobs/Employee-Tracker#readme"
 }
